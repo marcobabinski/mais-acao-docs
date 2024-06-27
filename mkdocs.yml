@@ -5,4 +5,4 @@ theme:
   language: pt_BR
 nav:
   - Início: index.md
-  - Entrevistas: entrevistas
+  - Entrevistas: entrevistas/index.md

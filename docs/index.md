@@ -2,4 +2,4 @@
 
 Seja bem-vindo à página de documentações do projeto.
 
-Acesse o [catálogo de entrevistas](/entrevistas) aqui.
+Acesse o [catálogo de entrevistas](entrevistas/index.md) aqui.
