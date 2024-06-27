@@ -4,13 +4,13 @@
 
 ## Observações
 
-- Disciplinas práticas têm facilidade nas ações de extensão
-- A comunicação com as empresas é feita diretamente pelos alunos
-  - Alunos empregados intermediam o contato inicial da turma com a própria empresa
-- A dificuldade não está exatamente na captação de demandas, porém, essas demandas nem sempre são o que as empresas querem
-- Apesar das ações serem reconhecidas pela comunidade, ainda há uma barreira que impede o empresário de buscar a universidade
-- Existem ações que poderiam ser curricularizadas e acabam sendo feitas por fora
-  - Negligência na comunicação entre o prospector e a universidade?
+- Disciplinas práticas têm facilidade nas ações de extensão. Por exemplo, disciplinas de projetos que já tem um programa interno estruturado na Unisc (Projeto “Baja de Galpão”, da engenharia).
+  Depto de Engenharia tem facilidade, pois tem disciplinas bem práticas. No básico é mais conceitual, mas procuram colocar disciplinas mais atrativas para evitar evasão, já antes da Resolução. Ainda assim, no primeiro semestre em uma das disciplinas os alunos são enviados para as empresas para fazer mapeamento de fluxo de valor (trabalho bem pontual). A partir do 4º semestre fica mais prático. No sexto semestre, fazem projeto completo dentro da empresa.
+  Os diferentes grupos de alunos vão em várias empresas, pois normalmente algum deles trabalha em alguma destas empresas. Nesta fase, o olhar passa a ser de engenheiro, “muda a chave”. Para outros alunos, Coordenação do Curso faz Ofício solicitando que aluno seja liberado em alguns momentos de seu trabalho para atuar na extensão em outras empresas.
+- A comunicação com as empresas é feita diretamente pelos alunos.
+- A dificuldade não está exatamente na captação de demandas. O que ocorre é que o que a universidade oferece (em termos de soluções) nem sempre é o que as empresas querem / precisam.
+- Apesar das ações serem reconhecidas pela comunidade, ainda há uma barreira que impede o empresário de buscar a universidade, ou pela empresa não querer expor questões sigilosas ou mesmo por questões culturais, de não querer expor que tem dificuldades.
+- Já houve participação de alunos em Hackathons, mas não havia sido previsto isso pelo professor que poderiam ter sido “curricularizadas”. Ficaram com um “extra” na formação do aluno.
 
 ## Problemas
 
