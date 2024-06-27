@@ -6,3 +6,5 @@ theme:
 nav:
   - Início: index.md
   - Entrevistas: entrevistas/index.md
+markdown_extensions:
+  - meta
