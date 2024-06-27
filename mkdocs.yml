@@ -1,0 +1,8 @@
+site_name: RNP | Docs
+theme:
+  name: mkdocs
+  locale: pt_BR
+  language: pt_BR
+nav:
+  - Início: index.md
+  - Entrevistas: entrevistas
