@@ -1,5 +1,8 @@
 # Entrevistas Catalogadas
 
-#### [Fernanda Delatorre](fernanda-delatorre.md) (20/06/24)
+#### [Fernanda Delatorre](fernanda-delatorre.md)
 
-#### [Lucas Rubinger](lucas-rubinger.md) (26/06/24)
+#### [Jorge Moraes](jorge-moraes.md)
+
+#### [Lucas Rubinger](lucas-rubinger.md)
+
